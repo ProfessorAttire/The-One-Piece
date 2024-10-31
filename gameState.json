@@ -1,0 +1,14 @@
+{
+  "courage": 5,
+  "reputation": 0,
+  "skills": {
+    "navigation": 0,
+    "maintenance": 10,
+    "leadership": 20
+  },
+  "relationships": {
+    "captain": 0,
+    "crew": 30
+  },
+  "inventory": []
+}
